@@ -1,0 +1,152 @@
+nav ul li a{
+  text-decoration: none;
+  color: black;
+}
+
+nav li{
+  list-style: none;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0  100px 0 100px;
+  max-width: 1140px;
+}
+.nav-img{
+  width: 80px;
+}
+/* .nav-button{
+  padding: 20px;
+} */
+
+.nav-button{
+  background: #4E47FF;
+  color: white;
+  padding: 10px 23px 10px 23px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+}
+.nav-button:hover{
+  background: black;
+}
+
+.section-banner{
+  max-width: 1140px;
+  height: 500px;
+  margin: 0 auto;
+  /* background: yellow; */
+}
+
+.section-title{
+  text-align: center;
+  padding-top: 150px;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: ;
+}
+.section-button{
+  margin: 0 0 10px 510px;
+  background: #4E47FF;
+  color: white;
+  padding: 10px 23px 10px 23px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+.open-sans-normal{
+  font-family: "raleway";
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.header{
+  background-image: url('/img/banner.png');
+
+  background-repeat: no-repeat;
+  
+}
+
+.section-1{
+  max-width: 1140px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  padding: 0 0 0 80px;
+
+}
+.section-1-image{
+  height: 250px;
+  margin-top: 60px;
+  padding-right:80px ;
+}
+.sub-section-2{
+  max-width: 340px;
+}
+.sub-heading-1{
+  font-weight: bold;
+  font-size: 35px;
+
+
+}
+.section-1-description{
+  padding-bottom:5px;
+}
+
+.section1{
+  display: flex;
+  max-width: 1140px;
+  height: 330px;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+/* Section-2  */
+
+.section-2{
+  max-width: 1140px;
+  height: 300px;
+  background:rgb(229, 231, 255); 
+  margin: 80px 175px 0 175px;
+  border-radius: 20px;
+
+}
+
+.section-2-heading{
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.active-user-section{
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.section-sub-2{
+  color: #4E47FF;
+  font-size: 40px;
+  font-family: inter;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-variation-settings:
+  "wdth" 100;
+}
+
+
+.section-2-p{
+  padding-top: -50px;
+}
+
