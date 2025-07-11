@@ -32,6 +32,7 @@ nav{
 }
 .nav-button:hover{
   background: black;
+  color: red;
 }
 
 .section-banner{
@@ -57,6 +58,10 @@ nav{
   border-radius: 5px;
   font-weight: bold;
   font-size: 15px;
+}
+.section-button:hover{
+  background: black;
+  color: red;
 }
 
 
@@ -194,6 +199,10 @@ form{
   border-radius: 5px;
   font-weight: bold;
   font-size: 15px;
+}
+.form-button:hover{
+  background: black;
+  color:red;
 }
 
 .section-4{
